@@ -17,3 +17,14 @@ void main(){
   print("The div is $div");
   print("Full name is $firstName $lastName");
 }
+output:
+Enter number:
+87
+The entered number is 87
+The sum is 13
+The diff is 7
+The mul is 30
+The div is 3.3333333333333335
+Full name is John Doe
+
+Process finished with exit code 0
